@@ -24,6 +24,10 @@ Customer churn is a major challenge in the telecom industry. This project uses *
 </p>
 
 ---
+## 🔗 Live Demo
+https://telecom-churn-prediction-ml.onrender.com
+
+---
 
 ## 🎯 Features
 
