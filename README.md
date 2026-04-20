@@ -3,9 +3,7 @@
 🚀 A Machine Learning powered web application that predicts whether a telecom customer is likely to **stay or churn**, helping businesses improve customer retention.
 
 ---
-## 📸 Preview
 
-![App Screenshot](Screenshot.png)
 
 ----
 
@@ -25,7 +23,7 @@ Customer churn is a major challenge in the telecom industry. This project uses *
 ## 🖥️ Demo Preview
 
 <p align="center">
-  <img src="app_preview.png" width="800"/>
+  <img src="Screenshot.png" width="800"/>
 </p>
 
 ---
