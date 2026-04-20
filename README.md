@@ -4,9 +4,6 @@
 
 ---
 
-
-----
-
 ## 🌟 Project Overview
 
 Customer churn is a major challenge in the telecom industry. This project uses **Machine Learning (CatBoost Classifier)** to analyze customer behavior and predict churn probability.
